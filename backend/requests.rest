@@ -1,7 +1,7 @@
-POST http://localhost:3001/api/notes
+PUT http://localhost:3001/api/notes/62167d16fc6976f94183cdff
 Content-Type: application/json
 
 {
-  "content": "Testando POST dps de colocar no git",
+  "content": "MUDOU",
   "important": true
 }
