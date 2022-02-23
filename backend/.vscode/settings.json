@@ -1,0 +1,11 @@
+{
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#4970da",
+    "terminalCursor.foreground": "#e9dbdb",
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 7,
+    "activityBar.background": "#371F62",
+    "titleBar.activeBackground": "#4D2B89",
+    "titleBar.activeForeground": "#FCFBFE"
+  }
+}
