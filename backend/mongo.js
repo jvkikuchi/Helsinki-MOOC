@@ -1,3 +1,9 @@
+/*
+ **
+  Thins if file is only used to teste the DB, and isn't used on the application
+ **
+*/
+
 const mongoose = require("mongoose");
 
 if(process.argv. length < 3) {
